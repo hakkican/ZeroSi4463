@@ -4,7 +4,7 @@
   "description": "ZoroSi4463 is a simple OOK TX library for arduino boards",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hakkican/ZeroSi4463/ZeroSi4463.git"
+    "url": "https://github.com/hakkican/ZeroSi4463.git"
   },
   "authors": [
     {

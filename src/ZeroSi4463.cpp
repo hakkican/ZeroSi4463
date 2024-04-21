@@ -2,7 +2,7 @@
  * ZeroSi4463 is a simple OOK TX arduino library for Si4463.
  * The ZoroSi4463 library was developed only for LightAPRS hardware.
  * 
- * Copyright (C) 2019 HAKKI CAN (TA2NHP) <hkkcan@gmail.com> www.hakkican.com
+ * Copyright (C) 2019-2024 HAKKI CAN (TA2WX) <hkkcan@gmail.com> www.hakkican.com
  * 
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
